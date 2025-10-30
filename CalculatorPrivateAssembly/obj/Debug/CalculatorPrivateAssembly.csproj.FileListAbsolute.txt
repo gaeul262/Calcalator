@@ -1,0 +1,6 @@
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.dll
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.pdb

@@ -9,3 +9,17 @@ C:\Users\CompLab209-PC1\source\repos\BasicCalculator\BasicCalculator\obj\Debug\B
 C:\Users\CompLab209-PC1\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
 C:\Users\CompLab209-PC1\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe.config
 C:\Users\CompLab209-PC1\source\repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.FrmBasicCalculator.resources
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.exe.config
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.FrmBasicCalculator.resources
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCal.E684EF6F.Up2Date
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\CompLab209-PC1\Source\Repos\Calcalator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb

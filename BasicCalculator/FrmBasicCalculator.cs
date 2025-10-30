@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using BasicCalculator;
-
+using CalculatorPrivateAssembly;
 
 namespace BasicCalculator
 {
@@ -52,52 +52,5 @@ namespace BasicCalculator
         private void Form1_Load(object sender, EventArgs e)
         {
         }
-        //Michael G
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        public class BasicComputation
-        {
-            public static float Addition(float num1, float num2)
-            {
-                return num1 + num2;
-            }
-            public static float Subtraction(float num1, float num2)
-            {
-                return num1 - num2;
-            }
-            public static float Multiplication(float num1, float num2)
-            {
-                return num1 * num2;
-            }
-            public static float Division(float num1, float num2)
-            {
-                return num1 / num2;
-            }
-        }
     }
-}
+}//Michael G
